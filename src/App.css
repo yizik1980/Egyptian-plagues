@@ -129,10 +129,9 @@ body {
 /* ── AXIS ── */
 .axis-wrapper {
   width: 100%;
-  max-width: 960px;
-  overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   padding-bottom: 4px;
+  margin-top:2rem;
 }
 
 .axis {
